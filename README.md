@@ -1,4 +1,5 @@
 # Notes
+* Current project files under `Hardware` folder
 * Some resistors and capacitors (imported from the photon) don't have a "box" silkscreen in their footprint - for the final batch, these footprints are better omitted.
 * RF components have been placed using the photon as reference
   * (X,Y) coords for RF components have been taken from reference design then moved as a group to maintain relative positioning
